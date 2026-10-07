@@ -20,4 +20,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: autotrapdoor-jar
-         path: AutoTrapdoor/build/libs/autotrapdoor-1.3.0.jar
+          path: AutoTrapdoor/build/libs/autotrapdoor-1.3.0.jar
